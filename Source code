@@ -38,8 +38,6 @@ int main()
     printf("%d comes before %d\n", a--, a);
     printf("Size of int=%d bytes\n", sizeof(a));
 
-
-
     //Logical Operators//
     if(a>b && a>c){
         printf("%d is greater than %d and %d\n", a, b, c);
