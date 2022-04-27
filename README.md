@@ -1,3 +1,3 @@
 # Operators-asgmt.
 
-This program consists of Arithmetic,Boolean and Relational operators
+This program consists of operators in C
